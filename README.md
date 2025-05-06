@@ -12,4 +12,3 @@ This repository contains the projects and assignments I completed during my stud
 ✔ Modern and clean designs  
 ✔ Fully responsive layouts  
 ✔ Personal improvements beyond tutorial requirements  
-
